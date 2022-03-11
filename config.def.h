@@ -32,7 +32,7 @@ static const Rule rules[] = {
 	{ NULL,       NULL,       "video0",   0,            0,            0 },
 	{ NULL,       NULL,       "video2",   0,            0,            1 },
 	{ NULL,       NULL,       "video4",   0,            0,            2 },
-	{ NULL,       NULL,       "video6",   1 << 1,            0,            1 },
+	{ NULL,       NULL,       "video6",   1 << 1,       0,            1 },
 };
 
 /* layout(s) */
